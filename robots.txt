@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ajaboiqu.github.io/WPk/sitemap_index.txt
+Sitemap: https://ajaboiqu.github.io/gbJ/sitemap_index.txt
+Sitemap: https://ajaboiqu.github.io/vTx/sitemap_index.txt
+Sitemap: https://ajaboiqu.github.io/ytk/sitemap_index.txt
